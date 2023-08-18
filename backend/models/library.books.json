@@ -1,0 +1,2805 @@
+[{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da9759"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "description": "A classic novel set in the 1930s that explores racial injustice and the loss of innocence.",
+  "publishedDate": "1960-07-11",
+  "numberOfPages": 324,
+  "isAvailable": true,
+  "categories": [
+    "Classic",
+    "Fiction"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da975a"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "description": "A dystopian novel depicting a totalitarian society controlled by the government's surveillance and manipulation.",
+  "publishedDate": {
+    "$date": {
+      "$numberLong": "-649036800000"
+    }
+  },
+  "numberOfPages": 360,
+  "isAvailable": true,
+  "categories": [
+    "Classic",
+    "Science Fiction"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da975b"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "description": "A beloved novel set in the 19th century that explores themes of love, class, and societal expectations.",
+  "publishedDate": "1813-01-28",
+  "numberOfPages": 279,
+  "isAvailable": false,
+  "categories": [
+    "Classic",
+    "Romance"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da975c"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "description": "A novel set in the Jazz Age that portrays the decadence, idealism, and disillusionment of the American Dream.",
+  "publishedDate": "1925-04-10",
+  "numberOfPages": 180,
+  "isAvailable": true,
+  "categories": [
+    "Classic",
+    "Fiction"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da975d"
+  },
+  "title": "To the Lighthouse",
+  "author": "Virginia Woolf",
+  "description": "A modernist novel that explores the complexities of human relationships and perception.",
+  "publishedDate": "1927-05-05",
+  "numberOfPages": 209,
+  "isAvailable": true,
+  "categories": [
+    "Classic",
+    "Fiction"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da975e"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "description": "A dystopian novel that presents a futuristic society controlled by technology, genetic engineering, and psychological conditioning.",
+  "publishedDate": "1932-01-01",
+  "numberOfPages": 311,
+  "isAvailable": true,
+  "categories": [
+    "Classic",
+    "Science Fiction"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da975f"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "description": "A coming-of-age novel that explores themes of teenage rebellion, alienation, and identity.",
+  "publishedDate": "1951-07-16",
+  "numberOfPages": 277,
+  "isAvailable": false,
+  "categories": [
+    "Classic",
+    "Fiction"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da9760"
+  },
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "description": "An epic novel that follows the journey of Captain Ahab in pursuit of the great white whale.",
+  "publishedDate": "1851-10-18",
+  "numberOfPages": 635,
+  "isAvailable": true,
+  "categories": [
+    "Classic",
+    "Adventure"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da9761"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "description": "A philosophical novel about a young Andalusian shepherd who journeys to Egypt in search of treasure and his personal legend.",
+  "publishedDate": "1988-01-01",
+  "numberOfPages": 197,
+  "isAvailable": true,
+  "categories": [
+    "Fiction",
+    "Philosophy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da9763"
+  },
+  "title": "Sapiens: A Brief History of Humankind",
+  "author": "Yuval Noah Harari",
+  "description": "A non-fiction book that explores the history and impact of Homo sapiens, covering the cognitive, agricultural, and scientific revolutions.",
+  "publishedDate": "2011-02-10",
+  "numberOfPages": 443,
+  "isAvailable": true,
+  "categories": [
+    "Non-Fiction",
+    "History"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ac63e104f30a0be9da9764"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "description": "The first book in the popular Harry Potter series, in which a young wizard discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry.",
+  "publishedDate": "1997-06-26",
+  "numberOfPages": 320,
+  "isAvailable": true,
+  "categories": [
+    "Fantasy",
+    "Young Adult"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b1aabad7e030db57789073"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "description": "A classic novel set in the 1930s that explores racial injustice and th...",
+  "publishedDate": {
+    "$date": {
+      "$numberLong": "-299030400000"
+    }
+  },
+  "numberOfPages": 324,
+  "isAvailable": true,
+  "categories": [
+    "Classic",
+    "Fiction"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b2a240cc1eaacdd5072d02"
+  },
+  "title": "Introduction to Engineering",
+  "author": "John Smith",
+  "description": "A comprehensive introduction to the field of engineering.",
+  "publishedDate": "2022-01-15",
+  "numberOfPages": 250,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Education"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a240cc1eaacdd5072d03"
+  },
+  "title": "Mechanical Engineering Principles",
+  "author": "Sarah Johnson",
+  "description": "A textbook covering fundamental principles of mechanical engineering.",
+  "publishedDate": "2021-07-20",
+  "numberOfPages": 400,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Mechanical"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a240cc1eaacdd5072d04"
+  },
+  "title": "Electrical Engineering Basics",
+  "author": "Michael Brown",
+  "description": "An introductory guide to electrical engineering concepts and applications.",
+  "publishedDate": "2020-03-10",
+  "numberOfPages": 300,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electrical"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a240cc1eaacdd5072d05"
+  },
+  "title": "Civil Engineering Handbook",
+  "author": "Emily Davis",
+  "description": "A comprehensive handbook covering various aspects of civil engineering.",
+  "publishedDate": "2019-11-01",
+  "numberOfPages": 500,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Civil"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a240cc1eaacdd5072d06"
+  },
+  "title": "Computer Science Fundamentals",
+  "author": "Robert Johnson",
+  "description": "An essential guide to computer science principles and programming.",
+  "publishedDate": "2020-08-05",
+  "numberOfPages": 350,
+  "isAvailable": true,
+  "categories": [
+    "Computer Science",
+    "Programming"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a240cc1eaacdd5072d07"
+  },
+  "title": "Chemical Engineering Principles",
+  "author": "Jessica Thompson",
+  "description": "A comprehensive textbook covering the principles of chemical engineering.",
+  "publishedDate": "2023-02-28",
+  "numberOfPages": 450,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Chemical"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a240cc1eaacdd5072d08"
+  },
+  "title": "Structural Analysis and Design",
+  "author": "David Wilson",
+  "description": "A guide to structural analysis and design in civil engineering.",
+  "publishedDate": "2022-06-10",
+  "numberOfPages": 320,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Civil"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a240cc1eaacdd5072d09"
+  },
+  "title": "Digital Systems Design",
+  "author": "Jennifer Lee",
+  "description": "A comprehensive guide to digital systems design and implementation.",
+  "publishedDate": "2021-09-18",
+  "numberOfPages": 280,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electrical",
+    "Computer Science"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a240cc1eaacdd5072d0a"
+  },
+  "title": "Software Engineering Principles",
+  "author": "Mark Davis",
+  "description": "An in-depth exploration of software engineering principles and methodologies.",
+  "publishedDate": "2022-12-05",
+  "numberOfPages": 400,
+  "isAvailable": true,
+  "categories": [
+    "Computer Science",
+    "Software Engineering"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a240cc1eaacdd5072d0b"
+  },
+  "title": "Environmental Engineering Fundamentals",
+  "author": "Laura Adams",
+  "description": "A comprehensive textbook covering the fundamentals of environmental engineering.",
+  "publishedDate": "2023-07-10",
+  "numberOfPages": 350,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Environmental"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2e8cc1eaacdd5072d0d"
+  },
+  "title": "Introduction to Electronics",
+  "author": "Daniel Wilson",
+  "description": "A comprehensive introduction to the field of electronics engineering.",
+  "publishedDate": "2022-03-18",
+  "numberOfPages": 300,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2e8cc1eaacdd5072d0e"
+  },
+  "title": "Digital Electronics",
+  "author": "Emily Thompson",
+  "description": "A textbook covering digital electronics principles and applications.",
+  "publishedDate": "2021-09-10",
+  "numberOfPages": 250,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2e8cc1eaacdd5072d0f"
+  },
+  "title": "Analog Electronics",
+  "author": "Michael Johnson",
+  "description": "An in-depth exploration of analog electronics circuits and devices.",
+  "publishedDate": "2020-06-05",
+  "numberOfPages": 400,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2e8cc1eaacdd5072d10"
+  },
+  "title": "Microelectronics",
+  "author": "Sophia Davis",
+  "description": "A comprehensive textbook covering microelectronics and integrated circuits.",
+  "publishedDate": "2021-11-20",
+  "numberOfPages": 350,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2e8cc1eaacdd5072d11"
+  },
+  "title": "Power Electronics",
+  "author": "Robert Brown",
+  "description": "A guide to power electronics circuits and applications.",
+  "publishedDate": "2022-08-10",
+  "numberOfPages": 300,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2e8cc1eaacdd5072d12"
+  },
+  "title": "Communication Systems",
+  "author": "Emma Wilson",
+  "description": "A comprehensive overview of communication systems engineering.",
+  "publishedDate": "2023-02-15",
+  "numberOfPages": 450,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2e8cc1eaacdd5072d13"
+  },
+  "title": "Electronic Devices and Circuits",
+  "author": "Andrew Thompson",
+  "description": "A textbook covering electronic devices and circuits analysis and design.",
+  "publishedDate": "2022-07-01",
+  "numberOfPages": 380,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2e8cc1eaacdd5072d14"
+  },
+  "title": "VLSI Design",
+  "author": "Olivia Johnson",
+  "description": "An in-depth exploration of Very Large Scale Integration (VLSI) design techniques.",
+  "publishedDate": "2021-12-10",
+  "numberOfPages": 420,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2e8cc1eaacdd5072d15"
+  },
+  "title": "Embedded Systems",
+  "author": "David Adams",
+  "description": "A comprehensive guide to embedded systems design and programming.",
+  "publishedDate": "2022-09-18",
+  "numberOfPages": 320,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2e8cc1eaacdd5072d16"
+  },
+  "title": "Optoelectronics",
+  "author": "Jessica Davis",
+  "description": "An in-depth exploration of optoelectronic devices and their applications.",
+  "publishedDate": "2023-06-05",
+  "numberOfPages": 380,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Optics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2ffcc1eaacdd5072d18"
+  },
+  "title": "Digital Signal Processing",
+  "author": "Thomas Johnson",
+  "description": "An in-depth study of digital signal processing techniques and algorithms.",
+  "publishedDate": "2022-05-10",
+  "numberOfPages": 500,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2ffcc1eaacdd5072d19"
+  },
+  "title": "RF Circuit Design",
+  "author": "Sophie Wilson",
+  "description": "A comprehensive guide to designing RF circuits for wireless communication systems.",
+  "publishedDate": "2022-11-25",
+  "numberOfPages": 420,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "RF"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2ffcc1eaacdd5072d1a"
+  },
+  "title": "Power Systems Engineering",
+  "author": "Michael Thompson",
+  "description": "A textbook covering power systems engineering principles and analysis.",
+  "publishedDate": "2021-08-15",
+  "numberOfPages": 380,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Power Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2ffcc1eaacdd5072d1b"
+  },
+  "title": "Control Systems Engineering",
+  "author": "Olivia Davis",
+  "description": "An in-depth exploration of control systems theory and design.",
+  "publishedDate": "2023-01-05",
+  "numberOfPages": 450,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2ffcc1eaacdd5072d1c"
+  },
+  "title": "Robotics and Automation",
+  "author": "Andrew Wilson",
+  "description": "A comprehensive guide to robotics and automation technologies and applications.",
+  "publishedDate": "2022-06-20",
+  "numberOfPages": 400,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Robotics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a2ffcc1eaacdd5072d1d"
+  },
+  "title": "Microwave Engineering",
+  "author": "Emily Adams",
+  "description": "An in-depth study of microwave engineering principles and devices.",
+  "publishedDate": "2021-12-01",
+  "numberOfPages": 380,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Microwaves"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a34ecc1eaacdd5072d1f"
+  },
+  "title": "Microcontroller Basics",
+  "author": "John Smith",
+  "description": "A beginner's guide to microcontroller fundamentals and programming.",
+  "publishedDate": "2022-03-15",
+  "numberOfPages": 250,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Microcontrollers"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a34ecc1eaacdd5072d20"
+  },
+  "title": "Embedded C Programming",
+  "author": "Sarah Johnson",
+  "description": "A comprehensive book on programming microcontrollers using the C language.",
+  "publishedDate": "2021-11-10",
+  "numberOfPages": 300,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Microcontrollers",
+    "Programming"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a34ecc1eaacdd5072d21"
+  },
+  "title": "PIC Microcontrollers",
+  "author": "Robert Thompson",
+  "description": "An in-depth guide to programming and interfacing PIC microcontrollers.",
+  "publishedDate": "2022-07-20",
+  "numberOfPages": 400,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Microcontrollers",
+    "PIC"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a34ecc1eaacdd5072d22"
+  },
+  "title": "ARM Cortex-M Microcontrollers",
+  "author": "Emma Davis",
+  "description": "A comprehensive book on programming ARM Cortex-M microcontrollers.",
+  "publishedDate": "2023-02-05",
+  "numberOfPages": 350,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Microcontrollers",
+    "ARM"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a34ecc1eaacdd5072d23"
+  },
+  "title": "8051 Microcontrollers",
+  "author": "David Wilson",
+  "description": "A guide to programming and interfacing 8051 microcontrollers.",
+  "publishedDate": "2022-08-10",
+  "numberOfPages": 300,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Microcontrollers",
+    "8051"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a34ecc1eaacdd5072d24"
+  },
+  "title": "Arduino Programming",
+  "author": "Sophia Thompson",
+  "description": "A beginner's guide to programming Arduino microcontrollers.",
+  "publishedDate": "2023-01-15",
+  "numberOfPages": 320,
+  "isAvailable": true,
+  "categories": [
+    "Engineering",
+    "Electronics",
+    "Microcontrollers",
+    "Arduino"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a3c7cc1eaacdd5072d26"
+  },
+  "title": "Analog Circuit Design: Art, Science, and Personalities",
+  "author": "Jim Williams",
+  "description": "A comprehensive guide to analog circuit design with insights from industry experts.",
+  "publishedDate": "1991-08-01",
+  "numberOfPages": 512,
+  "isAvailable": true,
+  "categories": [
+    "Analog Electronics",
+    "Circuit Design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a3c7cc1eaacdd5072d27"
+  },
+  "title": "The Art of Electronics",
+  "author": "Paul Horowitz, Winfield Hill",
+  "description": "A widely acclaimed textbook on electronic circuit design and practical applications.",
+  "publishedDate": "1980-02-01",
+  "numberOfPages": 1225,
+  "isAvailable": true,
+  "categories": [
+    "Analog Electronics",
+    "Circuit Design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a3c7cc1eaacdd5072d28"
+  },
+  "title": "Designing Analog Chips",
+  "author": "Hans Camenzind",
+  "description": "A comprehensive guide to designing analog integrated circuits with practical examples.",
+  "publishedDate": "2005-07-25",
+  "numberOfPages": 368,
+  "isAvailable": true,
+  "categories": [
+    "Analog Electronics",
+    "Integrated Circuit Design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a3c7cc1eaacdd5072d29"
+  },
+  "title": "Op Amps for Everyone",
+  "author": "Ron Mancini",
+  "description": "A practical guide to operational amplifiers and their applications in analog electronics.",
+  "publishedDate": "2003-06-15",
+  "numberOfPages": 384,
+  "isAvailable": true,
+  "categories": [
+    "Analog Electronics",
+    "Operational Amplifiers"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a3c7cc1eaacdd5072d2a"
+  },
+  "title": "Analog Integrated Circuit Design",
+  "author": "David A. Johns, Ken Martin",
+  "description": "A comprehensive textbook on analog integrated circuit design principles and techniques.",
+  "publishedDate": "1996-06-20",
+  "numberOfPages": 816,
+  "isAvailable": true,
+  "categories": [
+    "Analog Electronics",
+    "Integrated Circuit Design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a3c7cc1eaacdd5072d2b"
+  },
+  "title": "Practical Electronics for Inventors",
+  "author": "Paul Scherz, Simon Monk",
+  "description": "A hands-on guide to electronics and circuit design for inventors and hobbyists.",
+  "publishedDate": "2016-03-14",
+  "numberOfPages": 1056,
+  "isAvailable": true,
+  "categories": [
+    "Analog Electronics",
+    "Circuit Design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a3c7cc1eaacdd5072d2c"
+  },
+  "title": "Analysis and Design of Analog Integrated Circuits",
+  "author": "Paul R. Gray, Paul J. Hurst, Stephen H. Lewis, Robert G. Meyer",
+  "description": "A comprehensive textbook on the analysis and design of analog integrated circuits.",
+  "publishedDate": "2009-01-15",
+  "numberOfPages": 896,
+  "isAvailable": true,
+  "categories": [
+    "Analog Electronics",
+    "Integrated Circuit Design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a3c7cc1eaacdd5072d2d"
+  },
+  "title": "CMOS Analog Circuit Design",
+  "author": "Phillip E. Allen, Douglas R. Holberg",
+  "description": "A comprehensive guide to CMOS analog circuit design using integrated circuits.",
+  "publishedDate": "2002-12-16",
+  "numberOfPages": 896,
+  "isAvailable": true,
+  "categories": [
+    "Analog Electronics",
+    "CMOS Design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a3c7cc1eaacdd5072d2e"
+  },
+  "title": "Fundamentals of Analog Circuits",
+  "author": "Thomas L. Floyd, David M. Buchla",
+  "description": "A textbook covering the fundamentals of analog circuits and their applications.",
+  "publishedDate": "2013-02-14",
+  "numberOfPages": 976,
+  "isAvailable": true,
+  "categories": [
+    "Analog Electronics",
+    "Circuit Fundamentals"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a3c7cc1eaacdd5072d2f"
+  },
+  "title": "The Art and Science of Analog Circuit Design",
+  "author": "Jim Williams, Robert Pease",
+  "description": "A collection of essays by renowned analog circuit designers sharing their experiences and insights.",
+  "publishedDate": "1998-09-01",
+  "numberOfPages": 584,
+  "isAvailable": true,
+  "categories": [
+    "Analog Electronics",
+    "Circuit Design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a40ccc1eaacdd5072d31"
+  },
+  "title": "Digital Design: Principles and Practices",
+  "author": "John F. Wakerly",
+  "description": "A comprehensive textbook on digital design principles and practices.",
+  "publishedDate": "2017-01-31",
+  "numberOfPages": 912,
+  "isAvailable": true,
+  "categories": [
+    "Digital Electronics",
+    "Digital Design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a40ccc1eaacdd5072d32"
+  },
+  "title": "Digital Logic and Computer Design",
+  "author": "M. Morris Mano, Charles R. Kime",
+  "description": "A widely used textbook on digital logic and computer design.",
+  "publishedDate": "2011-02-24",
+  "numberOfPages": 672,
+  "isAvailable": true,
+  "categories": [
+    "Digital Electronics",
+    "Digital Logic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a40ccc1eaacdd5072d33"
+  },
+  "title": "Fundamentals of Digital Logic with Verilog Design",
+  "author": "Stephen Brown, Zvonko Vranesic",
+  "description": "A comprehensive textbook on digital logic design using Verilog HDL.",
+  "publishedDate": "2018-01-18",
+  "numberOfPages": 992,
+  "isAvailable": true,
+  "categories": [
+    "Digital Electronics",
+    "Digital Logic",
+    "Verilog"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a40ccc1eaacdd5072d34"
+  },
+  "title": "Digital Electronics: A Practical Approach with VHDL",
+  "author": "William Kleitz",
+  "description": "A practical guide to digital electronics design using VHDL.",
+  "publishedDate": "2014-09-16",
+  "numberOfPages": 992,
+  "isAvailable": true,
+  "categories": [
+    "Digital Electronics",
+    "Digital Logic",
+    "VHDL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a40ccc1eaacdd5072d35"
+  },
+  "title": "Digital Systems: Principles and Applications",
+  "author": "Ronald J. Tocci, Neal S. Widmer, Greg Moss",
+  "description": "A comprehensive textbook on digital systems and their applications.",
+  "publishedDate": "2015-01-12",
+  "numberOfPages": 912,
+  "isAvailable": true,
+  "categories": [
+    "Digital Electronics",
+    "Digital Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a40ccc1eaacdd5072d36"
+  },
+  "title": "Digital Design and Computer Architecture",
+  "author": "David Money Harris, Sarah L. Harris",
+  "description": "A textbook covering digital design and computer architecture concepts.",
+  "publishedDate": "2012-01-16",
+  "numberOfPages": 584,
+  "isAvailable": true,
+  "categories": [
+    "Digital Electronics",
+    "Digital Design",
+    "Computer Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a40ccc1eaacdd5072d37"
+  },
+  "title": "Digital Electronics: Principles, Devices and Applications",
+  "author": "Anil K. Maini",
+  "description": "A comprehensive guide to digital electronics principles, devices, and applications.",
+  "publishedDate": "2007-08-29",
+  "numberOfPages": 712,
+  "isAvailable": true,
+  "categories": [
+    "Digital Electronics",
+    "Digital Circuits"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a40ccc1eaacdd5072d38"
+  },
+  "title": "Introduction to Digital Systems: Modeling, Synthesis, and Simulation Using VHDL",
+  "author": "Mohammed Ferdjallah",
+  "description": "An introduction to digital systems modeling, synthesis, and simulation using VHDL.",
+  "publishedDate": "2017-07-12",
+  "numberOfPages": 720,
+  "isAvailable": true,
+  "categories": [
+    "Digital Electronics",
+    "Digital Systems",
+    "VHDL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a40ccc1eaacdd5072d39"
+  },
+  "title": "Digital Electronics: A Primer",
+  "author": "Roger L. Tokheim",
+  "description": "A beginner's guide to digital electronics concepts and applications.",
+  "publishedDate": "2016-02-03",
+  "numberOfPages": 528,
+  "isAvailable": true,
+  "categories": [
+    "Digital Electronics",
+    "Digital Circuits"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a40ccc1eaacdd5072d3a"
+  },
+  "title": "Digital Systems Design Using VHDL",
+  "author": "Charles H. Roth Jr., Lizy Kurian John",
+  "description": "A guide to digital systems design using VHDL and programmable logic devices.",
+  "publishedDate": "2007-12-21",
+  "numberOfPages": 788,
+  "isAvailable": true,
+  "categories": [
+    "Digital Electronics",
+    "Digital Systems",
+    "VHDL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a456cc1eaacdd5072d3c"
+  },
+  "title": "Principles of Digital Communication",
+  "author": "Robert G. Gallager",
+  "description": "A comprehensive textbook on the principles of digital communication.",
+  "publishedDate": "2008-02-15",
+  "numberOfPages": 928,
+  "isAvailable": true,
+  "categories": [
+    "Digital Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a456cc1eaacdd5072d3d"
+  },
+  "title": "Digital Communication Systems",
+  "author": "Simon Haykin",
+  "description": "A comprehensive guide to digital communication systems and techniques.",
+  "publishedDate": "2013-09-06",
+  "numberOfPages": 800,
+  "isAvailable": true,
+  "categories": [
+    "Digital Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a456cc1eaacdd5072d3e"
+  },
+  "title": "Digital Communications: Fundamentals and Applications",
+  "author": "Bernard Sklar",
+  "description": "A textbook covering the fundamentals and applications of digital communications.",
+  "publishedDate": "2014-07-24",
+  "numberOfPages": 1072,
+  "isAvailable": true,
+  "categories": [
+    "Digital Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a456cc1eaacdd5072d3f"
+  },
+  "title": "Digital Modulation Techniques",
+  "author": "Fuqin Xiong",
+  "description": "A comprehensive guide to digital modulation techniques for communication systems.",
+  "publishedDate": "2006-11-02",
+  "numberOfPages": 576,
+  "isAvailable": true,
+  "categories": [
+    "Digital Communication",
+    "Modulation Techniques"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a456cc1eaacdd5072d40"
+  },
+  "title": "Principles of Digital Communication and Coding",
+  "author": "Andrew J. Viterbi, Jim K. Omura",
+  "description": "A textbook covering the principles of digital communication and coding techniques.",
+  "publishedDate": "2008-03-28",
+  "numberOfPages": 372,
+  "isAvailable": true,
+  "categories": [
+    "Digital Communication",
+    "Coding Techniques"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a456cc1eaacdd5072d41"
+  },
+  "title": "Digital Communications: Design for the Real World",
+  "author": "Andy Bateman",
+  "description": "A practical guide to designing digital communication systems in real-world scenarios.",
+  "publishedDate": "2020-06-26",
+  "numberOfPages": 350,
+  "isAvailable": true,
+  "categories": [
+    "Digital Communication",
+    "System Design"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a456cc1eaacdd5072d42"
+  },
+  "title": "Digital Communication Receivers: Synchronization, Channel Estimation, and Signal Processing",
+  "author": "A. Lee Swindlehurst, Behrouz Farhang-Boroujeny",
+  "description": "A comprehensive guide to digital communication receivers and signal processing techniques.",
+  "publishedDate": "2013-01-17",
+  "numberOfPages": 404,
+  "isAvailable": true,
+  "categories": [
+    "Digital Communication",
+    "Signal Processing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a456cc1eaacdd5072d43"
+  },
+  "title": "Digital Communication over Fading Channels",
+  "author": "Marvin K. Simon, Mohamed-Slim Alouini",
+  "description": "A comprehensive guide to digital communication over fading channels.",
+  "publishedDate": "2005-09-20",
+  "numberOfPages": 568,
+  "isAvailable": true,
+  "categories": [
+    "Digital Communication",
+    "Fading Channels"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a456cc1eaacdd5072d44"
+  },
+  "title": "Digital Communications: A Discrete-Time Approach",
+  "author": "Michael Rice",
+  "description": "A textbook focusing on discrete-time digital communications techniques.",
+  "publishedDate": "2008-02-11",
+  "numberOfPages": 512,
+  "isAvailable": true,
+  "categories": [
+    "Digital Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a456cc1eaacdd5072d45"
+  },
+  "title": "Digital Communication Systems Engineering with Software-Defined Radio",
+  "author": "Alexander M. Wyglinski, Di Pu, Ning Wang",
+  "description": "A comprehensive guide to digital communication systems engineering using software-defined radio.",
+  "publishedDate": "2014-08-11",
+  "numberOfPages": 400,
+  "isAvailable": true,
+  "categories": [
+    "Digital Communication",
+    "Software-Defined Radio"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4a0cc1eaacdd5072d47"
+  },
+  "title": "Analog Communication Systems",
+  "author": "Simon Haykin, Michael Moher",
+  "description": "A comprehensive textbook on analog communication systems and techniques.",
+  "publishedDate": "2001-09-15",
+  "numberOfPages": 800,
+  "isAvailable": true,
+  "categories": [
+    "Analog Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4a0cc1eaacdd5072d48"
+  },
+  "title": "Principles of Analog Communication",
+  "author": "Herbert Taub, Donald L. Schilling, Goutam Saha",
+  "description": "A textbook covering the principles and applications of analog communication.",
+  "publishedDate": "2014-03-21",
+  "numberOfPages": 848,
+  "isAvailable": true,
+  "categories": [
+    "Analog Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4a0cc1eaacdd5072d49"
+  },
+  "title": "Analog and Digital Communication Systems",
+  "author": "Martin S. Roden, Alan V. Oppenheim",
+  "description": "A comprehensive guide to both analog and digital communication systems.",
+  "publishedDate": "2015-08-05",
+  "numberOfPages": 976,
+  "isAvailable": true,
+  "categories": [
+    "Analog Communication",
+    "Digital Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4a0cc1eaacdd5072d4a"
+  },
+  "title": "Principles of Communication Systems Simulation with Wireless Applications",
+  "author": "William H. Tranter, K. Sam Shanmugan, Theodore S. Rappaport",
+  "description": "A guide to communication systems simulation with a focus on wireless applications.",
+  "publishedDate": "2004-07-28",
+  "numberOfPages": 784,
+  "isAvailable": true,
+  "categories": [
+    "Analog Communication",
+    "Wireless Communication",
+    "Simulation"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4a0cc1eaacdd5072d4b"
+  },
+  "title": "Analog and Digital Communication",
+  "author": "Hwei Hsu",
+  "description": "A comprehensive textbook on analog and digital communication principles and techniques.",
+  "publishedDate": "2016-06-17",
+  "numberOfPages": 800,
+  "isAvailable": true,
+  "categories": [
+    "Analog Communication",
+    "Digital Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4a0cc1eaacdd5072d4c"
+  },
+  "title": "Analog Communication: Concepts and Principles",
+  "author": "Lathi, B.P.",
+  "description": "A textbook covering the concepts and principles of analog communication systems.",
+  "publishedDate": "2009-11-26",
+  "numberOfPages": 704,
+  "isAvailable": true,
+  "categories": [
+    "Analog Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4a0cc1eaacdd5072d4d"
+  },
+  "title": "Analog Communication Techniques: Short Course",
+  "author": "National Telecommunications and Information Administration (NTIA)",
+  "description": "A short course on analog communication techniques offered by NTIA.",
+  "publishedDate": "2011-02-01",
+  "numberOfPages": 144,
+  "isAvailable": true,
+  "categories": [
+    "Analog Communication",
+    "Training"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4a0cc1eaacdd5072d4e"
+  },
+  "title": "Analog and Digital Communication Systems",
+  "author": "Martin S. Roden, Samuel Boggs",
+  "description": "A comprehensive textbook on analog and digital communication systems.",
+  "publishedDate": "2016-01-14",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Analog Communication",
+    "Digital Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4a0cc1eaacdd5072d4f"
+  },
+  "title": "Analog and Digital Communication",
+  "author": "John M. Wozencraft, Irwin Mark Jacobs",
+  "description": "A comprehensive guide to both analog and digital communication principles and systems.",
+  "publishedDate": "2015-02-17",
+  "numberOfPages": 768,
+  "isAvailable": true,
+  "categories": [
+    "Analog Communication",
+    "Digital Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4a0cc1eaacdd5072d50"
+  },
+  "title": "Principles of Communications: Systems, Modulation, and Noise",
+  "author": "Rodger E. Ziemer, William H. Tranter, D. R. Fannin",
+  "description": "A comprehensive textbook covering principles of communications including analog and digital systems.",
+  "publishedDate": "2014-02-12",
+  "numberOfPages": 688,
+  "isAvailable": true,
+  "categories": [
+    "Analog Communication",
+    "Digital Communication"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4e7cc1eaacdd5072d52"
+  },
+  "title": "Modern Control Engineering",
+  "author": "Katsuhiko Ogata",
+  "description": "A comprehensive textbook on modern control engineering principles and techniques.",
+  "publishedDate": "2020-03-10",
+  "numberOfPages": 864,
+  "isAvailable": true,
+  "categories": [
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4e7cc1eaacdd5072d53"
+  },
+  "title": "Control Systems Engineering",
+  "author": "Norman S. Nise",
+  "description": "A comprehensive guide to control systems engineering concepts and design.",
+  "publishedDate": "2019-06-15",
+  "numberOfPages": 1040,
+  "isAvailable": true,
+  "categories": [
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4e7cc1eaacdd5072d54"
+  },
+  "title": "Feedback Control Systems",
+  "author": "Gene F. Franklin, J. David Powell, Abbas Emami-Naeini",
+  "description": "A textbook covering the principles and analysis of feedback control systems.",
+  "publishedDate": "2018-09-20",
+  "numberOfPages": 896,
+  "isAvailable": true,
+  "categories": [
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4e7cc1eaacdd5072d55"
+  },
+  "title": "Automatic Control Systems",
+  "author": "Farid Golnaraghi, Benjamin C. Kuo",
+  "description": "A comprehensive textbook on automatic control systems and applications.",
+  "publishedDate": "2017-12-05",
+  "numberOfPages": 912,
+  "isAvailable": true,
+  "categories": [
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4e7cc1eaacdd5072d56"
+  },
+  "title": "Modern Control Systems",
+  "author": "Richard C. Dorf, Robert H. Bishop",
+  "description": "A textbook covering modern control systems analysis and design.",
+  "publishedDate": "2016-08-18",
+  "numberOfPages": 1088,
+  "isAvailable": true,
+  "categories": [
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4e7cc1eaacdd5072d57"
+  },
+  "title": "Control Systems: Engineering, Design, and Analysis",
+  "author": "Thomas H. Lee",
+  "description": "A comprehensive guide to control systems engineering, design, and analysis.",
+  "publishedDate": "2015-04-10",
+  "numberOfPages": 880,
+  "isAvailable": true,
+  "categories": [
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4e7cc1eaacdd5072d58"
+  },
+  "title": "Principles of Control Systems Engineering",
+  "author": "Vinay K. Ingle, John G. Proakis",
+  "description": "A textbook covering the principles and applications of control systems engineering.",
+  "publishedDate": "2014-11-25",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4e7cc1eaacdd5072d59"
+  },
+  "title": "Digital Control Systems",
+  "author": "Kuo, B.C.",
+  "description": "A comprehensive guide to digital control systems and applications.",
+  "publishedDate": "2013-06-21",
+  "numberOfPages": 496,
+  "isAvailable": true,
+  "categories": [
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4e7cc1eaacdd5072d5a"
+  },
+  "title": "Control Systems Engineering",
+  "author": "I.J. Nagrath, M. Gopal",
+  "description": "A comprehensive textbook on control systems engineering principles and design.",
+  "publishedDate": "2012-09-05",
+  "numberOfPages": 944,
+  "isAvailable": true,
+  "categories": [
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a4e7cc1eaacdd5072d5b"
+  },
+  "title": "Control Systems Engineering",
+  "author": "Graham C. Goodwin, Stefan F. Graebe, Mario E. Salgado",
+  "description": "A comprehensive textbook on control systems engineering and analysis.",
+  "publishedDate": "2011-11-18",
+  "numberOfPages": 848,
+  "isAvailable": true,
+  "categories": [
+    "Control Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a542cc1eaacdd5072d5d"
+  },
+  "title": "Electromagnetic Field Theory",
+  "author": "William H. Hayt Jr., John A. Buck",
+  "description": "A comprehensive textbook on electromagnetic field theory and applications.",
+  "publishedDate": "2020-03-10",
+  "numberOfPages": 864,
+  "isAvailable": true,
+  "categories": [
+    "Electromagnetic Theory"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a542cc1eaacdd5072d5e"
+  },
+  "title": "Engineering Electromagnetics",
+  "author": "William H. Hayt Jr., John A. Buck",
+  "description": "A comprehensive guide to engineering electromagnetics principles and applications.",
+  "publishedDate": "2019-06-15",
+  "numberOfPages": 1040,
+  "isAvailable": true,
+  "categories": [
+    "Electromagnetic Theory"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a542cc1eaacdd5072d5f"
+  },
+  "title": "Electromagnetic Waves",
+  "author": "U.A. Bakshi, A.V. Bakshi",
+  "description": "A textbook covering the principles and analysis of electromagnetic waves.",
+  "publishedDate": "2018-09-20",
+  "numberOfPages": 896,
+  "isAvailable": true,
+  "categories": [
+    "Electromagnetic Theory"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a542cc1eaacdd5072d60"
+  },
+  "title": "Antenna Theory and Design",
+  "author": "Warren L. Stutzman, Gary A. Thiele",
+  "description": "A comprehensive textbook on antenna theory, design, and analysis.",
+  "publishedDate": "2017-12-05",
+  "numberOfPages": 912,
+  "isAvailable": true,
+  "categories": [
+    "Electromagnetic Theory",
+    "Antennas"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a542cc1eaacdd5072d61"
+  },
+  "title": "Microwave Engineering",
+  "author": "David M. Pozar",
+  "description": "A textbook covering microwave engineering principles, devices, and applications.",
+  "publishedDate": "2016-08-18",
+  "numberOfPages": 1088,
+  "isAvailable": true,
+  "categories": [
+    "Electromagnetic Theory",
+    "Microwaves"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a542cc1eaacdd5072d62"
+  },
+  "title": "Electromagnetic Field Theory and Transmission Lines",
+  "author": "G.S.N. Raju",
+  "description": "A comprehensive guide to electromagnetic field theory and transmission lines.",
+  "publishedDate": "2015-04-10",
+  "numberOfPages": 880,
+  "isAvailable": true,
+  "categories": [
+    "Electromagnetic Theory"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a542cc1eaacdd5072d63"
+  },
+  "title": "Electromagnetic Theory and Transmission Lines",
+  "author": "T.K. Mandal",
+  "description": "A textbook covering electromagnetic theory and transmission lines concepts.",
+  "publishedDate": "2014-11-25",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Electromagnetic Theory"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a542cc1eaacdd5072d64"
+  },
+  "title": "Engineering Electromagnetics",
+  "author": "Nathan Ida",
+  "description": "A comprehensive textbook on engineering electromagnetics principles and applications.",
+  "publishedDate": "2013-06-21",
+  "numberOfPages": 496,
+  "isAvailable": true,
+  "categories": [
+    "Electromagnetic Theory"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a542cc1eaacdd5072d65"
+  },
+  "title": "Introduction to Electrodynamics",
+  "author": "David J. Griffiths",
+  "description": "A textbook introducing the principles and applications of electrodynamics.",
+  "publishedDate": "2012-09-05",
+  "numberOfPages": 944,
+  "isAvailable": true,
+  "categories": [
+    "Electromagnetic Theory"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a542cc1eaacdd5072d66"
+  },
+  "title": "Electromagnetic Field Theory Fundamentals",
+  "author": "Bhag Singh Guru, Hüseyin R. Hiziroğlu",
+  "description": "A comprehensive guide to electromagnetic field theory fundamentals.",
+  "publishedDate": "2011-11-18",
+  "numberOfPages": 848,
+  "isAvailable": true,
+  "categories": [
+    "Electromagnetic Theory"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a5e4cc1eaacdd5072d68"
+  },
+  "title": "Machine Learning Yearning",
+  "author": "Andrew Ng",
+  "description": "A practical guide to machine learning project management and best practices.",
+  "publishedDate": "2018-09-06",
+  "numberOfPages": 512,
+  "isAvailable": true,
+  "categories": [
+    "Machine Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a5e4cc1eaacdd5072d69"
+  },
+  "title": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+  "author": "Aurélien Géron",
+  "description": "A comprehensive guide to machine learning using popular Python libraries.",
+  "publishedDate": "2017-03-09",
+  "numberOfPages": 800,
+  "isAvailable": true,
+  "categories": [
+    "Machine Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a5e4cc1eaacdd5072d6a"
+  },
+  "title": "Pattern Recognition and Machine Learning",
+  "author": "Christopher M. Bishop",
+  "description": "A textbook covering the fundamental concepts and algorithms of pattern recognition and machine learning.",
+  "publishedDate": "2006-04-03",
+  "numberOfPages": 738,
+  "isAvailable": true,
+  "categories": [
+    "Machine Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a5e4cc1eaacdd5072d6b"
+  },
+  "title": "Deep Learning",
+  "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+  "description": "A comprehensive textbook on deep learning techniques and applications.",
+  "publishedDate": "2016-11-18",
+  "numberOfPages": 775,
+  "isAvailable": true,
+  "categories": [
+    "Machine Learning",
+    "Deep Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a5e4cc1eaacdd5072d6c"
+  },
+  "title": "Machine Learning: A Probabilistic Perspective",
+  "author": "Kevin P. Murphy",
+  "description": "A comprehensive introduction to machine learning from a probabilistic perspective.",
+  "publishedDate": "2012-08-24",
+  "numberOfPages": 1104,
+  "isAvailable": true,
+  "categories": [
+    "Machine Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a5e4cc1eaacdd5072d6d"
+  },
+  "title": "The Hundred-Page Machine Learning Book",
+  "author": "Andriy Burkov",
+  "description": "A concise guide to the essentials of machine learning concepts and algorithms.",
+  "publishedDate": "2019-12-30",
+  "numberOfPages": 160,
+  "isAvailable": true,
+  "categories": [
+    "Machine Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a5e4cc1eaacdd5072d6e"
+  },
+  "title": "Machine Learning: A Bayesian and Optimization Perspective",
+  "author": "Sergios Theodoridis, Konstantinos Koutroumbas",
+  "description": "A comprehensive guide to machine learning from a Bayesian and optimization perspective.",
+  "publishedDate": "2015-05-01",
+  "numberOfPages": 1104,
+  "isAvailable": true,
+  "categories": [
+    "Machine Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a5e4cc1eaacdd5072d6f"
+  },
+  "title": "Machine Learning for Dummies",
+  "author": "John Paul Mueller, Luca Massaron",
+  "description": "A beginner-friendly guide to understanding and applying machine learning concepts.",
+  "publishedDate": "2016-05-09",
+  "numberOfPages": 432,
+  "isAvailable": true,
+  "categories": [
+    "Machine Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a5e4cc1eaacdd5072d70"
+  },
+  "title": "Hands-On Unsupervised Learning Using Python",
+  "author": "Giuseppe Bonaccorso",
+  "description": "A practical guide to unsupervised learning techniques and algorithms with Python examples.",
+  "publishedDate": "2019-02-28",
+  "numberOfPages": 464,
+  "isAvailable": true,
+  "categories": [
+    "Machine Learning",
+    "Unsupervised Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a5e4cc1eaacdd5072d71"
+  },
+  "title": "Machine Learning: The Art and Science of Algorithms that Make Sense of Data",
+  "author": "Peter Flach",
+  "description": "A comprehensive introduction to machine learning algorithms and applications.",
+  "publishedDate": "2012-09-06",
+  "numberOfPages": 409,
+  "isAvailable": true,
+  "categories": [
+    "Machine Learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d73"
+  },
+  "title": "Database Systems: The Complete Book",
+  "author": "Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom",
+  "description": "A comprehensive guide to database systems, covering concepts, design, and implementation.",
+  "publishedDate": "2020-02-14",
+  "numberOfPages": 1184,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d74"
+  },
+  "title": "Database Management Systems",
+  "author": "Raghu Ramakrishnan, Johannes Gehrke",
+  "description": "A textbook covering the principles and practice of database management systems.",
+  "publishedDate": "2020-03-10",
+  "numberOfPages": 1408,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d75"
+  },
+  "title": "Database Systems Concepts",
+  "author": "Abraham Silberschatz, Henry F. Korth, S. Sudarshan",
+  "description": "A comprehensive introduction to database systems, covering theory and practice.",
+  "publishedDate": "2020-03-25",
+  "numberOfPages": 1168,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d76"
+  },
+  "title": "Database Design for Mere Mortals",
+  "author": "Michael J. Hernandez",
+  "description": "A practical guide to database design for non-technical users.",
+  "publishedDate": "2013-12-16",
+  "numberOfPages": 672,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d77"
+  },
+  "title": "Practical SQL: A Beginner's Guide to Storytelling with Data",
+  "author": "Anthony DeBarros",
+  "description": "A beginner-friendly guide to SQL and database querying for data analysis.",
+  "publishedDate": "2018-11-09",
+  "numberOfPages": 328,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "SQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d78"
+  },
+  "title": "SQL Cookbook: Query Solutions and Techniques for Database Developers",
+  "author": "Anthony Molinaro",
+  "description": "A collection of SQL recipes and solutions for common database tasks and challenges.",
+  "publishedDate": "2018-06-15",
+  "numberOfPages": 836,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "SQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d79"
+  },
+  "title": "Data Modeling Essentials",
+  "author": "Graeme Simsion, Graham Witt",
+  "description": "A practical guide to data modeling and database design.",
+  "publishedDate": "2004-08-23",
+  "numberOfPages": 560,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "Data Modeling"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d7a"
+  },
+  "title": "NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence",
+  "author": "Pramod J. Sadalage, Martin Fowler",
+  "description": "A concise guide to NoSQL databases and their applications.",
+  "publishedDate": "2012-08-24",
+  "numberOfPages": 192,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "NoSQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d7b"
+  },
+  "title": "Database Internals: A Deep Dive into How Distributed Data Systems Work",
+  "author": "Alex Petrov",
+  "description": "An in-depth exploration of the internals of database systems and distributed data processing.",
+  "publishedDate": "2019-03-05",
+  "numberOfPages": 396,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d7c"
+  },
+  "title": "High-Performance MySQL: Optimization, Backups, and Replication",
+  "author": "Baron Schwartz, Peter Zaitsev, Vadim Tkachenko",
+  "description": "A comprehensive guide to optimizing and managing MySQL databases for high performance.",
+  "publishedDate": "2018-03-09",
+  "numberOfPages": 828,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "MySQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d7d"
+  },
+  "title": "MongoDB: The Definitive Guide",
+  "author": "Kristina Chodorow, Michael Dirolf",
+  "description": "A comprehensive guide to MongoDB, a popular NoSQL database.",
+  "publishedDate": "2013-12-03",
+  "numberOfPages": 432,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "NoSQL",
+    "MongoDB"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d7e"
+  },
+  "title": "Big Data: A Revolution That Will Transform How We Live, Work, and Think",
+  "author": "Viktor Mayer-Schönberger, Kenneth Cukier",
+  "description": "An exploration of the potential and challenges of big data in today's world.",
+  "publishedDate": "2014-03-04",
+  "numberOfPages": 272,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "Big Data"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d7f"
+  },
+  "title": "The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling",
+  "author": "Ralph Kimball, Margy Ross",
+  "description": "A comprehensive guide to dimensional modeling for data warehousing.",
+  "publishedDate": "2013-07-15",
+  "numberOfPages": 688,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "Data Warehousing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d80"
+  },
+  "title": "Mastering Oracle SQL: Putting Oracle SQL to Work",
+  "author": "Sanjay Mishra, Alan Beaulieu",
+  "description": "A comprehensive guide to Oracle SQL for developers and database administrators.",
+  "publishedDate": "2019-09-17",
+  "numberOfPages": 558,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "SQL",
+    "Oracle"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d81"
+  },
+  "title": "Graph Databases: New Opportunities for Connected Data",
+  "author": "Ian Robinson, Jim Webber, Emil Eifrem",
+  "description": "An introduction to graph databases and their applications in managing connected data.",
+  "publishedDate": "2015-07-15",
+  "numberOfPages": 224,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "Graph Databases"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d82"
+  },
+  "title": "Database Reliability Engineering: Designing and Operating Resilient Database Systems",
+  "author": "Laine Campbell, Charity Majors",
+  "description": "A guide to designing and operating reliable and resilient database systems.",
+  "publishedDate": "2017-06-22",
+  "numberOfPages": 366,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d83"
+  },
+  "title": "SQL in 10 Minutes a Day, Sams Teach Yourself",
+  "author": "Ben Forta",
+  "description": "A beginner-friendly guide to learning SQL through concise, focused lessons.",
+  "publishedDate": "2012-11-15",
+  "numberOfPages": 288,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "SQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d84"
+  },
+  "title": "Pro SQL Server Internals",
+  "author": "Dmitri Korotkevitch",
+  "description": "An in-depth exploration of SQL Server internals and performance optimization.",
+  "publishedDate": "2014-11-26",
+  "numberOfPages": 848,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "SQL Server"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d85"
+  },
+  "title": "The Relational Database Dictionary: Extended Edition",
+  "author": "C.J. Date",
+  "description": "A comprehensive dictionary of relational database concepts, terms, and definitions.",
+  "publishedDate": "2008-02-11",
+  "numberOfPages": 896,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d86"
+  },
+  "title": "PostgreSQL: Up and Running",
+  "author": "Regina O. Obe, Leo S. Hsu",
+  "description": "A practical guide to getting started with PostgreSQL, an open-source relational database.",
+  "publishedDate": "2017-11-29",
+  "numberOfPages": 282,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "PostgreSQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a6a9cc1eaacdd5072d87"
+  },
+  "title": "SQL Antipatterns: Avoiding the Pitfalls of Database Programming",
+  "author": "Bill Karwin",
+  "description": "A guide to avoiding common pitfalls and anti-patterns in SQL and database programming.",
+  "publishedDate": "2010-09-13",
+  "numberOfPages": 328,
+  "isAvailable": true,
+  "categories": [
+    "Database Management Systems",
+    "SQL"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d89"
+  },
+  "title": "Operating System Concepts",
+  "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+  "description": "A comprehensive introduction to operating systems concepts and principles.",
+  "publishedDate": "2020-02-14",
+  "numberOfPages": 976,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d8a"
+  },
+  "title": "Modern Operating Systems",
+  "author": "Andrew S. Tanenbaum, Herbert Bos",
+  "description": "A textbook covering modern operating systems design and implementation.",
+  "publishedDate": "2014-03-21",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d8b"
+  },
+  "title": "Operating Systems: Three Easy Pieces",
+  "author": "Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",
+  "description": "An online textbook covering the fundamentals of operating systems.",
+  "publishedDate": "2014-07-17",
+  "numberOfPages": 732,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d8c"
+  },
+  "title": "Operating System Design: The Xinu Approach",
+  "author": "Douglas Comer",
+  "description": "A practical guide to operating system design using the Xinu operating system as a case study.",
+  "publishedDate": "2015-05-12",
+  "numberOfPages": 784,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d8d"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d8e"
+  },
+  "title": "Modern Operating Systems: Global Edition",
+  "author": "Andrew S. Tanenbaum",
+  "description": "An updated edition of the classic textbook on modern operating systems.",
+  "publishedDate": "2014-01-16",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d8f"
+  },
+  "title": "Operating Systems: Principles and Practice",
+  "author": "Thomas Anderson, Michael Dahlin",
+  "description": "A comprehensive textbook covering the principles and practice of operating systems.",
+  "publishedDate": "2014-03-01",
+  "numberOfPages": 1264,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d90"
+  },
+  "title": "Operating Systems in Depth: Design and Programming",
+  "author": "Thomas W. Doeppner",
+  "description": "A comprehensive guide to operating systems design and programming concepts.",
+  "publishedDate": "2010-11-17",
+  "numberOfPages": 656,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d91"
+  },
+  "title": "Operating Systems: A Design-Oriented Approach",
+  "author": "Charles Crowley",
+  "description": "A design-oriented approach to understanding operating systems concepts and principles.",
+  "publishedDate": "2019-10-23",
+  "numberOfPages": 776,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d92"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d93"
+  },
+  "title": "Operating System Concepts",
+  "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+  "description": "A comprehensive introduction to operating systems concepts and principles.",
+  "publishedDate": "2020-02-14",
+  "numberOfPages": 976,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d94"
+  },
+  "title": "Modern Operating Systems",
+  "author": "Andrew S. Tanenbaum, Herbert Bos",
+  "description": "A textbook covering modern operating systems design and implementation.",
+  "publishedDate": "2014-03-21",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d95"
+  },
+  "title": "Operating Systems: Three Easy Pieces",
+  "author": "Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",
+  "description": "An online textbook covering the fundamentals of operating systems.",
+  "publishedDate": "2014-07-17",
+  "numberOfPages": 732,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d96"
+  },
+  "title": "Operating System Design: The Xinu Approach",
+  "author": "Douglas Comer",
+  "description": "A practical guide to operating system design using the Xinu operating system as a case study.",
+  "publishedDate": "2015-05-12",
+  "numberOfPages": 784,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d97"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d98"
+  },
+  "title": "Modern Operating Systems: Global Edition",
+  "author": "Andrew S. Tanenbaum",
+  "description": "An updated edition of the classic textbook on modern operating systems.",
+  "publishedDate": "2014-01-16",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d99"
+  },
+  "title": "Operating Systems: Principles and Practice",
+  "author": "Thomas Anderson, Michael Dahlin",
+  "description": "A comprehensive textbook covering the principles and practice of operating systems.",
+  "publishedDate": "2014-03-01",
+  "numberOfPages": 1264,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d9a"
+  },
+  "title": "Operating Systems in Depth: Design and Programming",
+  "author": "Thomas W. Doeppner",
+  "description": "A comprehensive guide to operating systems design and programming concepts.",
+  "publishedDate": "2010-11-17",
+  "numberOfPages": 656,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d9b"
+  },
+  "title": "Operating Systems: A Design-Oriented Approach",
+  "author": "Charles Crowley",
+  "description": "A design-oriented approach to understanding operating systems concepts and principles.",
+  "publishedDate": "2019-10-23",
+  "numberOfPages": 776,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d9c"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d9d"
+  },
+  "title": "Operating System Concepts",
+  "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+  "description": "A comprehensive introduction to operating systems concepts and principles.",
+  "publishedDate": "2020-02-14",
+  "numberOfPages": 976,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d9e"
+  },
+  "title": "Modern Operating Systems",
+  "author": "Andrew S. Tanenbaum, Herbert Bos",
+  "description": "A textbook covering modern operating systems design and implementation.",
+  "publishedDate": "2014-03-21",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072d9f"
+  },
+  "title": "Operating Systems: Three Easy Pieces",
+  "author": "Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",
+  "description": "An online textbook covering the fundamentals of operating systems.",
+  "publishedDate": "2014-07-17",
+  "numberOfPages": 732,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072da0"
+  },
+  "title": "Operating System Design: The Xinu Approach",
+  "author": "Douglas Comer",
+  "description": "A practical guide to operating system design using the Xinu operating system as a case study.",
+  "publishedDate": "2015-05-12",
+  "numberOfPages": 784,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072da1"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072da2"
+  },
+  "title": "Modern Operating Systems: Global Edition",
+  "author": "Andrew S. Tanenbaum",
+  "description": "An updated edition of the classic textbook on modern operating systems.",
+  "publishedDate": "2014-01-16",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072da3"
+  },
+  "title": "Operating Systems: Principles and Practice",
+  "author": "Thomas Anderson, Michael Dahlin",
+  "description": "A comprehensive textbook covering the principles and practice of operating systems.",
+  "publishedDate": "2014-03-01",
+  "numberOfPages": 1264,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072da4"
+  },
+  "title": "Operating Systems in Depth: Design and Programming",
+  "author": "Thomas W. Doeppner",
+  "description": "A comprehensive guide to operating systems design and programming concepts.",
+  "publishedDate": "2010-11-17",
+  "numberOfPages": 656,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072da5"
+  },
+  "title": "Operating Systems: A Design-Oriented Approach",
+  "author": "Charles Crowley",
+  "description": "A design-oriented approach to understanding operating systems concepts and principles.",
+  "publishedDate": "2019-10-23",
+  "numberOfPages": 776,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072da6"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072da7"
+  },
+  "title": "Modern Operating Systems",
+  "author": "Andrew S. Tanenbaum, Herbert Bos",
+  "description": "A textbook covering modern operating systems design and implementation.",
+  "publishedDate": "2014-03-21",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072da8"
+  },
+  "title": "Operating Systems: Three Easy Pieces",
+  "author": "Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",
+  "description": "An online textbook covering the fundamentals of operating systems.",
+  "publishedDate": "2014-07-17",
+  "numberOfPages": 732,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072da9"
+  },
+  "title": "Operating System Design: The Xinu Approach",
+  "author": "Douglas Comer",
+  "description": "A practical guide to operating system design using the Xinu operating system as a case study.",
+  "publishedDate": "2015-05-12",
+  "numberOfPages": 784,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072daa"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dab"
+  },
+  "title": "Modern Operating Systems: Global Edition",
+  "author": "Andrew S. Tanenbaum",
+  "description": "An updated edition of the classic textbook on modern operating systems.",
+  "publishedDate": "2014-01-16",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dac"
+  },
+  "title": "Operating Systems: Principles and Practice",
+  "author": "Thomas Anderson, Michael Dahlin",
+  "description": "A comprehensive textbook covering the principles and practice of operating systems.",
+  "publishedDate": "2014-03-01",
+  "numberOfPages": 1264,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dad"
+  },
+  "title": "Operating Systems in Depth: Design and Programming",
+  "author": "Thomas W. Doeppner",
+  "description": "A comprehensive guide to operating systems design and programming concepts.",
+  "publishedDate": "2010-11-17",
+  "numberOfPages": 656,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dae"
+  },
+  "title": "Operating Systems: A Design-Oriented Approach",
+  "author": "Charles Crowley",
+  "description": "A design-oriented approach to understanding operating systems concepts and principles.",
+  "publishedDate": "2019-10-23",
+  "numberOfPages": 776,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072daf"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072db0"
+  },
+  "title": "Modern Operating Systems",
+  "author": "Andrew S. Tanenbaum, Herbert Bos",
+  "description": "A textbook covering modern operating systems design and implementation.",
+  "publishedDate": "2014-03-21",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072db1"
+  },
+  "title": "Operating Systems: Three Easy Pieces",
+  "author": "Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",
+  "description": "An online textbook covering the fundamentals of operating systems.",
+  "publishedDate": "2014-07-17",
+  "numberOfPages": 732,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072db2"
+  },
+  "title": "Operating System Design: The Xinu Approach",
+  "author": "Douglas Comer",
+  "description": "A practical guide to operating system design using the Xinu operating system as a case study.",
+  "publishedDate": "2015-05-12",
+  "numberOfPages": 784,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072db3"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072db4"
+  },
+  "title": "Modern Operating Systems: Global Edition",
+  "author": "Andrew S. Tanenbaum",
+  "description": "An updated edition of the classic textbook on modern operating systems.",
+  "publishedDate": "2014-01-16",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072db5"
+  },
+  "title": "Operating Systems: Principles and Practice",
+  "author": "Thomas Anderson, Michael Dahlin",
+  "description": "A comprehensive textbook covering the principles and practice of operating systems.",
+  "publishedDate": "2014-03-01",
+  "numberOfPages": 1264,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072db6"
+  },
+  "title": "Operating Systems in Depth: Design and Programming",
+  "author": "Thomas W. Doeppner",
+  "description": "A comprehensive guide to operating systems design and programming concepts.",
+  "publishedDate": "2010-11-17",
+  "numberOfPages": 656,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072db7"
+  },
+  "title": "Operating Systems: A Design-Oriented Approach",
+  "author": "Charles Crowley",
+  "description": "A design-oriented approach to understanding operating systems concepts and principles.",
+  "publishedDate": "2019-10-23",
+  "numberOfPages": 776,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072db8"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072db9"
+  },
+  "title": "Modern Operating Systems",
+  "author": "Andrew S. Tanenbaum, Herbert Bos",
+  "description": "A textbook covering modern operating systems design and implementation.",
+  "publishedDate": "2014-03-21",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dba"
+  },
+  "title": "Operating Systems: Three Easy Pieces",
+  "author": "Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau",
+  "description": "An online textbook covering the fundamentals of operating systems.",
+  "publishedDate": "2014-07-17",
+  "numberOfPages": 732,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dbb"
+  },
+  "title": "Operating System Design: The Xinu Approach",
+  "author": "Douglas Comer",
+  "description": "A practical guide to operating system design using the Xinu operating system as a case study.",
+  "publishedDate": "2015-05-12",
+  "numberOfPages": 784,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dbc"
+  },
+  "title": "Operating Systems: Internals and Design Principles",
+  "author": "William Stallings",
+  "description": "A comprehensive exploration of operating systems internals and design principles.",
+  "publishedDate": "2017-02-13",
+  "numberOfPages": 832,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dbd"
+  },
+  "title": "Modern Operating Systems: Global Edition",
+  "author": "Andrew S. Tanenbaum",
+  "description": "An updated edition of the classic textbook on modern operating systems.",
+  "publishedDate": "2014-01-16",
+  "numberOfPages": 1136,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dbe"
+  },
+  "title": "Operating Systems: Principles and Practice",
+  "author": "Thomas Anderson, Michael Dahlin",
+  "description": "A comprehensive textbook covering the principles and practice of operating systems.",
+  "publishedDate": "2014-03-01",
+  "numberOfPages": 1264,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dbf"
+  },
+  "title": "Operating Systems in Depth: Design and Programming",
+  "author": "Thomas W. Doeppner",
+  "description": "A comprehensive guide to operating systems design and programming concepts.",
+  "publishedDate": "2010-11-17",
+  "numberOfPages": 656,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b2a78ccc1eaacdd5072dc0"
+  },
+  "title": "Operating Systems: A Design-Oriented Approach",
+  "author": "Charles Crowley",
+  "description": "A design-oriented approach to understanding operating systems concepts and principles.",
+  "publishedDate": "2019-10-23",
+  "numberOfPages": 776,
+  "isAvailable": true,
+  "categories": [
+    "Operating Systems"
+  ]
+}]
