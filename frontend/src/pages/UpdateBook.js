@@ -57,8 +57,8 @@ const UpdateBook = () => {
   };
 
   return (
-    <div className="container">
-      <h2>Update Book</h2>
+    <div className="container text-white">
+      <h2 className="text-center text-warning text-decoration-underline my-3">Update Book</h2>
       {Object.keys(bookData).length > 0 && (
         <Form onSubmit={handleSubmit}>
           <Form.Group controlId="title">

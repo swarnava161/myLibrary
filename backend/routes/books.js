@@ -43,105 +43,14 @@ router.post('/', async (req, res) => {
   }
 });
 
-//get the length
-// router.get('/:param', async (req, res) => {
-//   try {
-//     const { param } = req.params;
-//     const regex = new RegExp(param, 'i');
-
-//     const searchQuery = {
-//       $or: [
-//         { title: regex },
-//         { author: regex },
-//         { categories: regex }
-//       ],
-//       isAvailable: true
-//     };
-
-//     const books = await Book.find(searchQuery);
-//     const totalBooksAvailable = books.length;
-
-//     const groupedBooks = books.reduce((acc, book) => {
-//       const key = book.title || book.author || book.categories;
-//       if (!acc[key]) {
-//         acc[key] = 1;
-//       } else {
-//         acc[key]++;
-//       }
-//       return acc;
-//     }, {});
-
-//     const sortedBooks = Object.keys(groupedBooks).sort((a, b) => {
-//       return groupedBooks[b] - groupedBooks[a];
-//     });
-
-//     res.json({ totalBooksAvailable, sortedBooks });
-//   } catch (err) {
-//     console.error(err);
-//     res.status(500).json({ message: 'Server Error' });
-//   }
-// });
 
 
 
 
 
 
-// Get books by name
-// router.get('/:param', async (req, res) => {
-//   try {
-//     const { param } = req.params;
-//     const regex = new RegExp(param, 'i');
-//     let books;
-//     let length = 0;
 
-//     if (param.toLowerCase() === 'name') {
-//       // Fetch only the first matching book
-//       const book = await Book.findOne({ title: regex });
-//       books = book ? [book] : [];
-//       length = books.length;
-//     } else {
-//       // Fetch all matching books and return unique titles
-//       const allBooks = await Book.aggregate([
-//         { $match: { $or: [{ title: regex }, { author: regex }, { categories: regex }] } },
-//         { $sort: { title: 1 } }
-//       ]);
 
-//       const uniqueTitles = new Set();
-//       books = allBooks.filter(book => {
-//         if (!uniqueTitles.has(book.title)) {
-//           uniqueTitles.add(book.title);
-//           return true;
-//         }
-//         return false;
-//       });
-
-//       length = books.length;
-//     }
-
-//     if (length === 0) {
-//       return res.status(404).json({ message: 'No books found with the given parameter' });
-//     }
-
-//     const bookInfo = {
-//       length,
-//       books: books.map(book => ({
-//         title: book.title,
-//         author: book.author,
-//         description: book.description,
-//         publishedDate: book.publishedDate,
-//         numberOfPages: book.numberOfPages,
-//         isAvailable: book.isAvailable,
-//         categories: book.categories
-//       }))
-//     };
-
-//     res.json(bookInfo);
-//   } catch (err) {
-//     console.error(err);
-//     res.status(500).json({ message: 'Server Error' });
-//   }
-// });
 
 
 
@@ -227,17 +136,6 @@ router.delete('/:id', async (req, res) => {
 
 
 
-// router.get('/count', async (req, res) => {
-//   const { search } = req.query;
-
-//   try {
-//     const count = await Book.countDocuments({ title: { $regex: search, $options: 'i' } });
-//     res.json({ count });
-//   } catch (error) {
-//     console.error(error);
-//     res.status(500).json({ message: 'Server Error' });
-//   }
-// });
 
 
 

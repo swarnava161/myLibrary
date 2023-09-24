@@ -128,10 +128,7 @@ const ShowBooks = ({ isAdmin }) => {
       );
 
       console.log(borrowingResponse.data.message);
-      // setBorrowedUser(user.email);
-      // console.log("this is user.email",user.email);
-      // // Update the isBorrowed status for the clicked book
-      //   console.log("this is borroweduser", borrowedUser);
+    
       setBorrowedBooks((prevBooks) =>
         prevBooks.map((book) =>
           book.id === bookId ? { ...book, isBorrowed: true } : book
@@ -249,7 +246,7 @@ const ShowBooks = ({ isAdmin }) => {
         </div>
         <div className="row">
           {filteredBooks.length === 0 ? (
-            <div className="text-center fs-1 fw-bold">No data found</div>
+            <div className="text-center fs-1 fw-bold text-white">No data found</div>
           ) : (
             filteredBooks.map((book) => (
               <div key={book._id} className="col-md-4 mb-4">
